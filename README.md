@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sprudwns33)](https://hits.seeyoufarm.com)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sprudwns33)](https://github.com/mazassumnida/mazassumnida)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=MinKyungJun&fontSize=90)
+
+### 📙My Skill 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sprudwns33&layout=compact)](https://github.com/kkw-11/kkw-11)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sprudwns33&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
